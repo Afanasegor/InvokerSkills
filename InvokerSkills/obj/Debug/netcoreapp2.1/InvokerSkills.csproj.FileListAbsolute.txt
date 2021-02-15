@@ -1,0 +1,11 @@
+D:\Пользователь\Desktop\С# обучение\InvokerSkills\InvokerSkills\obj\Debug\netcoreapp2.1\InvokerSkills.csprojAssemblyReference.cache
+D:\Пользователь\Desktop\С# обучение\InvokerSkills\InvokerSkills\obj\Debug\netcoreapp2.1\InvokerSkills.csproj.CoreCompileInputs.cache
+D:\Пользователь\Desktop\С# обучение\InvokerSkills\InvokerSkills\obj\Debug\netcoreapp2.1\InvokerSkills.AssemblyInfoInputs.cache
+D:\Пользователь\Desktop\С# обучение\InvokerSkills\InvokerSkills\obj\Debug\netcoreapp2.1\InvokerSkills.AssemblyInfo.cs
+D:\Пользователь\Desktop\С# обучение\InvokerSkills\InvokerSkills\bin\Debug\netcoreapp2.1\InvokerSkills.deps.json
+D:\Пользователь\Desktop\С# обучение\InvokerSkills\InvokerSkills\bin\Debug\netcoreapp2.1\InvokerSkills.runtimeconfig.json
+D:\Пользователь\Desktop\С# обучение\InvokerSkills\InvokerSkills\bin\Debug\netcoreapp2.1\InvokerSkills.runtimeconfig.dev.json
+D:\Пользователь\Desktop\С# обучение\InvokerSkills\InvokerSkills\bin\Debug\netcoreapp2.1\InvokerSkills.dll
+D:\Пользователь\Desktop\С# обучение\InvokerSkills\InvokerSkills\bin\Debug\netcoreapp2.1\InvokerSkills.pdb
+D:\Пользователь\Desktop\С# обучение\InvokerSkills\InvokerSkills\obj\Debug\netcoreapp2.1\InvokerSkills.dll
+D:\Пользователь\Desktop\С# обучение\InvokerSkills\InvokerSkills\obj\Debug\netcoreapp2.1\InvokerSkills.pdb
